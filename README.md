@@ -40,6 +40,6 @@ Create a Purchase Invoice (PI) after confirming receipt to process payment.<br>
 Monitor Everything on the Dashboard for quick updates.
 
 ## Technology Used
-Frontend: React.js 
-Backend: Python Flask 
+Frontend: React.js <br>
+Backend: Python Flask <br>
 Database: PostgreSQL 
