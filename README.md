@@ -1,4 +1,4 @@
-##Warehouse Inward System
+## Warehouse Inward System
 
 This is a mini full-stack application that helps manage the inward flow of goods in a warehouse.
 It covers the entire process from ordering items from vendors to receiving them and generating invoices for payment.
