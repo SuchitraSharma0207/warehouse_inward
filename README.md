@@ -7,7 +7,7 @@ It covers the entire process from ordering items from vendors to receiving them 
 
 ### Masters
 
-Product Master: Manage all products with details like code, name, category, HSN code, and status.
+Product Master: Manage all products with details like code, name, category, HSN code, and status.<br>
 Vendor Master: Manage all vendors with details like code, name, contact info, GST, and status.
 
 ### Purchase Orders (PO)
